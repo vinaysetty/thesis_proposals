@@ -18,5 +18,5 @@ To address this issue in this project the goal is to explore active learning app
 
 
 
-[1] SADHAN: Hierarchical Attention Networks to Learn LatentAspect Embeddings for Fake News Detection, Rahul Mishra and Vinay Setty, in ICTIR 2019 (to appear, pdf available on request)
-[2] Browser Extension For Fake News Detection, Eirik Sakariassen and Bjarte Botnevik, Bachelor thesis, University of Stavanger, 2019. (pdf available on request)
+[1] SADHAN: Hierarchical Attention Networks to Learn LatentAspect Embeddings for Fake News Detection, Rahul Mishra and Vinay Setty, in ICTIR 2019 
+[2] Browser Extension For Fake News Detection, Eirik Sakariassen and Bjarte Botnevik, Bachelor thesis, University of Stavanger, 2019. [PDF](https://arxiv.org/pdf/2005.13270)
