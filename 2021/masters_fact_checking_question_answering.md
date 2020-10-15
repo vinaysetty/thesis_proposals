@@ -13,7 +13,7 @@
   
 ## Problem
   
-Fake news has become a huge problem in our lives. Use of AI to detect fake news is one solutions researchers have been exploring. One issue with fake news detection is fact checking the claims made in news articles and social media posts. Fact checking is closely related to question answering for which there is a large body of research. Especially question answering over Knowledge Graphs such as DBpedia, Wikidata and Freebase. The goal of this project is the following.
+Fake news has become a huge problem in our lives. Use of AI to detect fake news is one solutions researchers have been exploring. One issue with fake news detection is fact checking the claims made in news articles and social media posts. Fact checking is closely related to question answering for which there is a large body of research. Especially question answering over [Knowledge Graphs](https://en.wikipedia.org/wiki/Knowledge_Graph) such as DBpedia, Wikidata and Freebase. The goal of this project is the following.
 
 (1). Given a textual claim "Barack Obama was born in Africa", reformulate that into one or more questions such as "Where was Barack Obama born"
 (2). Also check if the generated questions can be answered using knowledge graphs such as DBpedia, Wikidata or Freebase
