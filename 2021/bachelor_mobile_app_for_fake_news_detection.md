@@ -5,7 +5,7 @@
 ## Prerequisites
   - DAT310 Web programming
   - DAT240 Advanced Programming
-  - Unity or material.io or any other app framework
+  - Flutter or material.io or any other app framework
 
 # Problem description
 
