@@ -14,7 +14,7 @@
 # Background
   
 Fake news has become a huge problem in our lives. Use of AI to detect fake news is one solutions researchers have been exploring. However, the problem is that the patterns related to fake news is ever changing and it is hard to tackle it with a static model.
-To address this issue in this project the goal is to explore active learning approaches to get user feedback to improve the quality of prediction. We have several deep neural network models proposed for this purpose but they work with static data. See [1] for details. At the same time we have a developed a browser plugin UI to help users debunk fake news and give feedback [2]. See some snapshots from the browser plugin below:
+To address this issue in this project the goal is to explore reinforcement learning to get user feedback to improve the quality of prediction. We have several deep neural network models proposed for this purpose but they work with static data. See [1] for details. At the same time we have a developed a browser plugin UI to help users debunk fake news and give feedback [2]. See some snapshots from the browser plugin below:
 
 
 
