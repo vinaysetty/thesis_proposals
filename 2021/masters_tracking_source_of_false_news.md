@@ -23,4 +23,4 @@ Given a textual claim track the source of the claim. For example, "Scientists ag
 
 
 
-[1] Meme-tracking and the Dynamics of the News Cycle (PDF)[http://learning.mpi-sws.org/networks-seminar/papers/kdd09-quotes.pdf]
+[1] Meme-tracking and the Dynamics of the News Cycle [PDF](http://learning.mpi-sws.org/networks-seminar/papers/kdd09-quotes.pdf)
