@@ -1,4 +1,4 @@
-# Social Media converage of the fake news
+# Social Media coverage of the fake news
 
 ## Supervisor: Vinay Setty
 
